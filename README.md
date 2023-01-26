@@ -7,7 +7,7 @@ Front end dev - React.
 
 :point_right: Self-taught, jack-of-all-trades, enjoy challenges.
 
-:book: I’m currently learning MERN stack
+:book: I’m learning MERN stack
 
 :mortar_board: Currently Student at OpenClassrooms (App Dev)
 
