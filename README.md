@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bien le bonjour 👋
 
-<!--
-**monkeycs60/monkeycs60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Clément SERIZAY
+### Actively catching up with the latest front end technologies
 
-Here are some ideas to get you started:
+Front end dev - React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:point_right: Self-taught, jack-of-all-trades, enjoy challenges.
+
+:book: I’m currently learning MERN stack
+
+:mortar_board: Currently Student at OpenClassrooms (App Dev)
+
+:fr: Based in France
