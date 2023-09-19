@@ -41,6 +41,9 @@ Node JS - React - Typescript - Next.js
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monkeycs60&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeycs60&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 :book: I’m testing the latest features of Next.js 13 and learning Dev Ops. 
 
