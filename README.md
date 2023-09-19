@@ -4,7 +4,7 @@
 ### Actively building stuff
 
 Fullstack Javascript Dev.
-Node JS - React
+Node JS - React - Typescript - Next.js
 
 🌍 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](https://www.clementserizay.com/) 
 
