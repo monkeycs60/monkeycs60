@@ -3,6 +3,9 @@
 # Clément SERIZAY
 ### Actively building stuff
 
+[(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+)](https://www.linkedin.com/in/cl%C3%A9ment-serizay-044911262/) 
+
 Fullstack Javascript Dev.
 Node JS - React - Typescript - Next.js
 
