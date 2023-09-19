@@ -17,7 +17,10 @@ Node JS - React - Typescript - Next.js
 
 :point_right: Self-taught, enjoy challenges.
 
-### :hammer_and_wrench: Languages and Tools :
+:rocket: Currently building a fullstack Next.js application called Coworkez Malin. [![Coworkez Malin](https://img.shields.io/badge/CoworkezMalin-yellow)](https://www.coworkezmalin.com/)
+
+
+### :hammer_and_wrench: My Tech Stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -32,12 +35,12 @@ Node JS - React - Typescript - Next.js
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/styledcomponents/styledcomponents-original.svg" title="Styled Components" alt="Styled Components" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
   </div>
 
 
-:rocket: Currently building a fullstack Next.js application called Coworkez Malin. [![Coworkez Malin](https://img.shields.io/badge/CoworkezMalin-yellow)](https://www.coworkezmalin.com/)
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=monkeycs60
+
 
 :book: I’m testing the latest features of Next.js 13 and learning Dev Ops. 
 
