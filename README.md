@@ -6,6 +6,9 @@
 [(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 )](https://www.linkedin.com/in/cl%C3%A9ment-serizay-044911262/) 
 
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+
 Fullstack Javascript Dev.
 Node JS - React - Typescript - Next.js
 
